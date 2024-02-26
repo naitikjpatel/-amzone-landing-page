@@ -30,9 +30,9 @@ Embark on a virtual shopping spree and coding adventure with the Amazon Landing 
 
 **This is Our Project Image**
 <img width="960" alt="Screenshot 2024-02-26 000655" src="https://github.com/naitikjpatel/amzone-landing-page/assets/120157810/718f0099-7c8f-40ac-95ec-cf0942fbedfe">
-<br/>
+---
 <img width="959" alt="image" src="https://github.com/naitikjpatel/amzone-landing-page/assets/120157810/ec47d6f5-a8bd-4922-afe5-a1c9bab64d20">
 
-<br/>
+---
 <img width="946" alt="image" src="https://github.com/naitikjpatel/amzone-landing-page/assets/120157810/e62f8803-9c6e-4cd1-b640-1706013bb8f0">
 
