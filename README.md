@@ -27,3 +27,7 @@ Step into the world of e-commerce sophistication with my meticulously crafted Am
 🤩 **Coding Creativity:** Witness the fusion of coding creativity and e-commerce functionality. This landing page replica is not just a mimicry—it's a celebration of the art and science behind creating captivating online experiences.
 
 Embark on a virtual shopping spree and coding adventure with the Amazon Landing Page replica. It's more than a project; it's a journey into the heart of web development innovation! 🚀🛒💻
+
+**This is Our Project Image**
+<img width="960" alt="Screenshot 2024-02-26 000655" src="https://github.com/naitikjpatel/amzone-landing-page/assets/120157810/718f0099-7c8f-40ac-95ec-cf0942fbedfe">
+
